@@ -1,0 +1,23 @@
+{
+  "name": "BGTableViewComponent",
+  "version": "0.1.0",
+  "summary": "A short description of BGTableViewComponent.",
+  "description": "一款简单易用的TableView组件，快速搭建复杂类型cell列表视图，逻辑清晰易拓展，cell支持纯代码、xib。",
+  "homepage": "https://github.com/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/BGTableViewComponent",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "Bingo-xu": "1203_xu@sina.com"
+  },
+  "source": {
+    "git": "https://github.com/Bingo-xu/BGTableViewComponent.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "BGTableViewComponent/Classes/**/*",
+  "public_header_files": "BGTableViewComponent/Classes/BGTableViewComponent/*.h"
+}

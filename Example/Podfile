@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '10.0'
+
+target 'BGTableViewComponent_Example' do
+  pod 'BGTableViewComponent', :path => '../'
+
+  target 'BGTableViewComponent_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end

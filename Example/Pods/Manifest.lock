@@ -1,0 +1,16 @@
+PODS:
+  - BGTableViewComponent (0.1.0)
+
+DEPENDENCIES:
+  - BGTableViewComponent (from `../`)
+
+EXTERNAL SOURCES:
+  BGTableViewComponent:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  BGTableViewComponent: 5dbba26f79a71df7db79792714cbe570cb48ca07
+
+PODFILE CHECKSUM: c2ee2004b0c955a096bfdc3eea519b3d818581b5
+
+COCOAPODS: 1.11.3
